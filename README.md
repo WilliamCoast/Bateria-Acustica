@@ -1,2 +1,1 @@
-# bateria
-projeto simples de uma bateria 
+Bateria Acústica-JavaScript
